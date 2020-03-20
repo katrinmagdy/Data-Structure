@@ -1,0 +1,1 @@
+java -jar MaterialsPolynomialSolver.jar
